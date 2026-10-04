@@ -1,4 +1,5 @@
 # NASA Space Quiz - Questions
+Answer all 6 questions, then check your score in `answers.md`.
 
 1. In what year did Apollo 11 land on the Moon?
 2. Which planet is known as the Red Planet?
